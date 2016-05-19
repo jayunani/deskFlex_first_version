@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "deskFlex ",
+  "description": "This extension shows a Google Image search result for the current page",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "fitness.png",
+    "default_popup": "index.html",
+    "default_title": "Click here!"
+  },
+
+  "permissions": [
+    "alarms",
+    "https://ajax.googleapis.com/"
+
+  ]
+}

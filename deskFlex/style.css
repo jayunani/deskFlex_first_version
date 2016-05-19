@@ -1,0 +1,40 @@
+div {
+	text-align: center;
+}
+
+#hello {
+	font-family: Kitten Swash;
+	font-size: 60px;
+	background-color: #36DBCA;
+	margin: 0px;
+	padding: 0px;
+	width: 300px;
+	-webkit-text-stroke: 1px black;
+   	color: black;
+   	text-shadow:
+    	3px 3px 0 #FFF,
+     	-1px -1px 0 #FFF,  
+      	1px -1px 0 #FFF,
+      	-1px 1px 0 #FFF,
+       	1px 1px 0 #FFF;
+}
+
+#time {
+	font-family: century gothic;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #36DBCA;
+	margin: 0px;
+	padding: 0px;
+	width: 300px;
+	color: black;
+}
+
+#workoutVideo {
+	
+}
+
+#workoutSong {
+	height: 0px;
+	width: 0px;
+}
